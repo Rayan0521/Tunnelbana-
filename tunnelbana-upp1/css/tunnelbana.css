@@ -1,0 +1,26 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ body{
+     display: flex;
+     flex-direction: column;
+     justify-content: space-evenly;
+     min-height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: 100vh;
+     margin: 0;
+ }
+ 
+ .container {
+     width: 15%;
+     margin: 0 auto;
+     padding: 28px;
+     border: 1px solid black;
+     border-radius: 5px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+   }
+ 
